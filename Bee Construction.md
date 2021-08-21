@@ -56,14 +56,14 @@ Whilst certainly optional it is recommending to ***Edgestitch*** the top and sid
 
 ### Step 3: Band tie
 
-#### Band tie One Colour Method
+#### Band Tie One Colour Method
 
 __1.__ Fold the band tie piece in half lengthwise, right sides and raw edges together.  
 __2.__ Sew along the raw edges, leaving one of the short ends open.  
 __3.__ Trim the seam allowances and clip the corners.  
 __4.__ Turn inside out. Press.   
 
-#### Band tie Two Colours Method
+#### Band Tie Two Colours Method
 
 __1.__ With right sides together, sew the main band tie to the lining neck tie leaving one of the short edges open.  
 __2.__ Trim the seam allowances and clip the corners.  
