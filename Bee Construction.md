@@ -14,6 +14,7 @@ Glossary Terms will be formatted in ***bold and italics*** below.
 When making a reversible top the second colour will be refered to as the lining fabric.
 
 </Note>
+
 ### Step 1: Construct the Neck Ties
 
 #### Neck Ties One Colour Method
