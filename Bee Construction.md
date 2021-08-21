@@ -73,7 +73,7 @@ __3.__ Turn inside out. Press.
 
 __1.__ Thread the band tie through the gaps along the bottom edge of the cups, making sure the front sides of the cups are in the centre and that the main and lining sides are on the respective side.  
 
-### Stepo 5: Enjoy!
+### Step 5: Enjoy!
 
 Hooray, your Bee Bikini Top is finished! 
 
