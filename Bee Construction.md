@@ -68,7 +68,7 @@ Whilst certainly optional it is recommending to ***Edgestitch*** the top and sid
 
 #### Cross Back Ties Variant
 
-<HERE TANGERINESHARK>
+[HERE TANGERINESHARK]
 
 ### Step 3: Band tie
 
