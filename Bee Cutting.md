@@ -18,6 +18,6 @@ title: Bee Cutting
 
 This pattern is easily made reversible by buying a similar fabric to the main fabric and using it as contrast. To save confusion on instructions it will be refered to as the lining fabric.  
 If making the cross back tie variant you need to cut-out the band part.  
-If making the band tie variant you need to cut-out the band part.  
+If making the band tie variant you need to cut-out the band tie part.  
 
 </Note>
