@@ -42,8 +42,7 @@ __4.__ Repeat Steps 1 - 3 for the remaining neck tie pieces.
 __1.__ With raw edges and main fabric together, ***Baste*** one of the neck ties to the top of the one of the cup pieces making sure that the tie goes to towards the bottom of the cup.  
 __2.__ With the neck tie sandwiched inside, pin a lining cup piece right sides together to the main cup piece.  
 __3.__ Sew the lining to the main between notches along the front, top and sides seams making sure not to catch the neck tie and to reinforce the stitch at the notches.   
-__4.__ Fold to the wrong side and ***Edgestitch*** the seam allowance down between notches on the front and side seams. Do not sew the allowances together!  
-(NOTE: Step 4 is an idea of how to secure the casing seam allowances down but may not be the best. If you know of another way please let us know)  
+__4.__ (Optional) Fold to the wrong side and ***Edgestitch*** the seam allowance down between notches on the front and side seams. Do not sew the allowances together!    
 __5.__ Sew the lining to the main fabric between notches along the bottom leaving a gap between the notches making sure to reinforce the stitch at the notches.  
 __6.__ Trim the seam allowances of the sewn edges whilst leaving the seam allowance between the notches. Clip the corners. You may also need to clip the curved seams.  
 __7.__ Turn inside out by pulling the neck tie through one of the gaps. Press.  
@@ -51,13 +50,18 @@ __8.__ (Optional) ***Edgestitch*** the top, sides and bottom of the cup leaving 
 __9.__ Stitch along casing line to create band channel.  
 __10.__ Repeat Steps 1 - 8 for the other cup.  
 
+<Warning>
+  
+Step 4 is an idea of how to secure the casing seam allowances down but may not be the best and does not need to be done so is optional. If you know of another way please let us know.
+  
+</Warning>
 <Tip>
 
-If your seam allowance is wide you may find that you need to trim the gaps seam allowances a little to reduce bulk. Just make sure you leave enough.
+If your seam allowance is wide you may find that you need to trim the gaps seam allowances a little to reduce bulk.  
 If you are having trouble turning the cups you can either;   
 __1.__ Create a 2.5cm (1") gap in the front or side seam and turn throught that, either ***Slipstitch***-ing the gap closed or ***Edgestitch***-ing it closed during Step 7.  
   Or  
-__2.__ Widen one of the existing gaps and turn through that. Then when turned ***Edgestitch*** the widened part closed. 
+__2.__ Widen one of the existing gaps and turn through that. Then when turned ***Edgestitch*** or ***Slipstitch** the widened part closed. 
 
 </Tip>
 <Note>
