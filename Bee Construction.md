@@ -45,7 +45,7 @@ __1.__ With raw edges and main fabric together, ***Baste*** one of the neck ties
 __2.__ With the neck tie sandwiched inside, pin a lining cup piece right sides together to the main cup piece.  
 __3.__ Sew the lining to the main cup between notches along the front, top and side seams, making sure not to catch the neck tie and to reinforce the stitch at the notches.   
 __4.__ (Optional) Fold to the wrong side and ***Edgestitch*** the seam allowance down between notches on the front and side seams. Do not sew the allowances together!    
-__5.__ Sew the lining to the main fabric between notches along the bottom leaving a gap between the notches making sure to reinforce the stitch at the notches.  
+__5.__ With good sides together, sew the lining to the main fabric along the bottom, leaving a gap between the side notches making sure to reinforce the stitch at the either end.  
 __6.__ Trim the seam allowances of the sewn edges whilst leaving the seam allowance between the notches. Clip the corners. You may also need to clip the curved seams.  
 __7.__ Turn inside out by pulling the neck tie through one of the gaps. Press.  
 __8.__ (Optional) ***Edgestitch*** the top, sides and bottom of the cup leaving the gaps between the notches open.  
