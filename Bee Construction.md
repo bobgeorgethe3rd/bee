@@ -41,7 +41,7 @@ __4.__ Repeat Steps 1 - 3 for the remaining neck tie pieces.
 
 #### Band Tie Variant
 
-__1.__ With raw edges and main fabric together, ***Baste*** one of the neck ties to the top of the one of the cup pieces making sure that the tie goes to towards the bottom of the cup.  
+__1.__ With raw edges and main fabric together, ***Baste*** one of the neck ties to the top of one of the cup pieces making sure that the tie goes towards the bottom of the cup.  
 __2.__ With the neck tie sandwiched inside, pin a lining cup piece right sides together to the main cup piece.  
 __3.__ Sew the lining to the main between notches along the front, top and sides seams making sure not to catch the neck tie and to reinforce the stitch at the notches.   
 __4.__ (Optional) Fold to the wrong side and ***Edgestitch*** the seam allowance down between notches on the front and side seams. Do not sew the allowances together!    
