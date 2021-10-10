@@ -2,6 +2,8 @@
 title: Bee Construction
 ---
 
+**Use a stretch stitch!**
+
 ### Glossary
 - ***Edgestitch*** : Stitch 1/8" (3mm) away or closer from the seam
 
