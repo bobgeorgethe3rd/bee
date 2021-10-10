@@ -54,7 +54,7 @@ __10.__ Repeat Steps 1 - 9 for the other cup.
 
 <Warning>
   
-Step 4 is an idea of how to secure the casing seam allowances down but may not be the best and does not need to be done so is optional. If you know of another way please let us know.
+Step 4 is only one possible way to secure the casing seam allowances, but it is optional. If you know of another way, please let us know.
   
 </Warning>
 <Tip>
