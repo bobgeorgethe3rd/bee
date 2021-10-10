@@ -59,8 +59,8 @@ Step 4 is only one possible way to secure the casing seam allowances, but it is 
 </Warning>
 <Tip>
 
-If your seam allowance is wide you may find that you need to trim the gaps seam allowances a little to reduce bulk.  
-If you are having trouble turning the cups you can either;   
+If your seam allowance is wide you may find that you need to trim the gaps' seam allowances a little to reduce bulk.  
+If you are having trouble turning the cups you can either:   
 __1.__ Create a 2.5cm (1") gap in the front or side seam and turn throught that, either ***Slipstitch***-ing the gap closed or ***Edgestitch***-ing it closed during Step 7.  
   Or  
 __2.__ Widen one of the existing gaps and turn through that. Then when turned ***Edgestitch*** or ***Slipstitch** the widened part closed. 
