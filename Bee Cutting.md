@@ -2,7 +2,7 @@
 title: Bee Cutting
 ---
 
-There are three variations of this pattern. **One Colour** which is where the bikini top is made out of one colour. **Two Colours** were the bikini top is made reversible by using two colours and **Cross Back Tie Variant** were the neck ties tie in the back replacing the band tie.
+There are three variations of this pattern. **One Colour**, which is where the bikini top is made out of one colour. **Two Colours**, where the bikini top is made reversible by using two colours, and **Cross Back Tie Variant**, where the neck ties tie in the back replacing the band tie.
 
 ## Materials
 ### One Colour (Non-Reversible)
