@@ -50,7 +50,7 @@ __6.__ Trim the seam allowances of the sewn edges whilst leaving the seam allowa
 __7.__ Turn inside out by pulling the neck tie through one of the gaps. Press.  
 __8.__ (Optional) ***Edgestitch*** the top, sides and bottom of the cup leaving the gaps between the notches open.  
 __9.__ Stitch along casing line to create band channel.  
-__10.__ Repeat Steps 1 - 8 for the other cup.  
+__10.__ Repeat Steps 1 - 9 for the other cup.  
 
 <Warning>
   
