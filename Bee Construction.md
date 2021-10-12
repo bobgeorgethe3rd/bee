@@ -84,12 +84,20 @@ __7.__ Gather cups along the basting stitches.
 
 <Tip>
 
-The amount you gather the cups is a matter of preference and cup size, but you can hold them up to yourself before stitching in place to ensure the fit is right.
+The amount you gather the cups is a matter of preference and cup size, but you can hold them up to yourself before stitching in place to ensure the fit is right.  
+There are also notches on either side of the band piece's midpoint to help give you an idea of how much to gather by.
 
 </Tip>
 
-__8.__ Find the midpoint of the band piece, then pin the gathered bottoms of cups to band piece, right sides together. You'll want the cups to meet at the band's midpoint, or center front.  
+__8.__ Find the midpoint of the band piece, this is marked by a notch, then pin the gathered bottoms of cups to band piece, right sides together. You'll want the cups to meet at the band's midpoint.  
 __9.__ Stitch the cups to the band. Once they're stitched in place, check the fit of the cups once more before continuing. Unpicking swim fabric is a pain, so it's better to make sure the cups fit just right before moving on.  
+
+<Note>
+
+You may prefer to wrap the one cup over the other at the midpoint. To do this place the sides of the cups at the otuer notches and lay their fronts pass the midpoint with the left on top.  
+
+</Note>
+
 __10.__ Now it's time to finish the band. To do this, fold in the seam allowance on both sides of the band. The raw edges of your swim cups should be turned to the inside of the band. Then, fold the band in half lengthwise, aligning the long edges and enclosing the seam allowances. Swim fabric can be slippery, so you may need extra pins or clips to hold the fabric in place.  
 __11.__ Stitch along the top of the band, securing the seam allowances within the band.  
 
