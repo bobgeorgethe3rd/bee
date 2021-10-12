@@ -74,7 +74,42 @@ Whilst certainly optional it is recommending to ***Edgestitch*** the top and sid
 
 #### Cross Back Ties Variant
 
-[HERE TANGERINESHARK]
+__1.__ With raw edges and main fabric together, ***Baste*** one of the neck ties to the top of one of the cup pieces making sure that the tie goes towards the bottom of the cup.  
+__2.__ With the neck tie sandwiched inside, pin a lining cup piece right sides together to the main cup piece. 
+__3.__ Sew the lining to the main cup along the front, top and side seams, making sure not to catch the neck tie.  
+__4.__ Turn the cups right side out and press.  
+__5.__ (Optional) ***Edgestitch*** the top and sides of the cups.  
+__6.__ Sew a line of basting stitches along the bottom of the cups, just inside the seamline.  
+__7.__ Gather cups along the basting stitches.  
+
+<Tip>
+
+The amount you gather the cups is a matter of preference and cup size, but you can hold them up to yourself before stitching in place to ensure the fit is right.  
+There are also notches on either side of the band piece's midpoint to help give you an idea of how much to gather by.
+
+</Tip>
+
+__8.__ Find the midpoint of the band piece, this is marked by a notch, then pin the gathered bottoms of cups to band piece, right sides together. You'll want the cups to meet at the band's midpoint.  
+__9.__ Stitch the cups to the band. Once they're stitched in place, check the fit of the cups once more before continuing. Unpicking swim fabric is a pain, so it's better to make sure the cups fit just right before moving on.  
+
+<Note>
+
+You may prefer to wrap the one cup over the other at the midpoint. To do this place the sides of the cups at the otuer notches and lay their fronts pass the midpoint with the left on top.  
+
+</Note>
+
+__10.__ Now it's time to finish the band. To do this, fold in the seam allowance on both sides of the band. The raw edges of your swim cups should be turned to the inside of the band. Then, fold the band in half lengthwise, aligning the long edges and enclosing the seam allowances. Swim fabric can be slippery, so you may need extra pins or clips to hold the fabric in place.  
+__11.__ Stitch along the top of the band, securing the seam allowances within the band.  
+
+<Tip>
+
+For extra support, you can also add swim elastic into the band, either by stitching clear elastic into the band's seam allowance, or by threading swim elastic through the band at this point.
+
+</Tip>
+
+__12.__ At this point, the band is a long tube with open ends. Next, we'll be sewing those closed while providing a loop to thread your neck ties through. To do this fold over one end of the band towards the inside of the swim top. The amount you fold over should be, at minimum, the width of your neck ties plus a seam allowance. Stitch the end down to create a loop at least as wide as your neck ties. There will be a lot of pressure on this point, so make sure your stitching is secure, and consider running a second line of stitching next to the first, for additional support. Repeat for the other end of the band.  
+__13.__ To thread your neck-ties for cross back ties, take the tie from the left cup and thread it through the loop on the right side of the band, from top to bottom. Thread the tie from the right cup top-to-bottom through the loop on the left side of the band. Then tie the neck ties at center back to secure the swim top.  
+__14.__ Skip to "Step 5: Enjoy!"
 
 ### Step 3: Band tie
 
